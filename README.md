@@ -19,3 +19,16 @@ A mobile application designed to help users find doctors and book appointments e
 
 #### Project Files
 - Doctor Appointment.pdf
+## Live Prototype
+
+🔗 View Prototype:
+https://www.figma.com/proto/IhE1hjKVhRTDbssL4Xrgp2/Doctor-Appointment
+
+## Tools Used
+- Figma
+
+## Features
+- User Authentication
+- Doctor Search
+- Doctor Profiles
+- Appointment Booking
